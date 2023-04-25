@@ -1,9 +1,10 @@
 body {
-    background-color: rgb(152, 180, 204);
+    background-color: rgb(186, 204, 219);
 }
 #cavalo{
-  width: 100%;
+  width: 75%;
   height: 500px;
+  padding-right: 100%;
 }
 h2 {
     text-align: center;
