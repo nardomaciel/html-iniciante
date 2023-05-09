@@ -2,8 +2,8 @@ body {
     background-color: rgb(186, 204, 219);
 }
 #cavalo{
-  width: 75%;
-  height: 500px;
+  width: 100%;
+ height: 500px;
   padding-right: 100%;
 }
 h2 {
